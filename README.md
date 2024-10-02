@@ -3,11 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitpk&label=Profile%20views&color=0e75b6&style=flat" alt="digitpk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digitpk" alt="digitpk" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abdulmajid5886" target="blank"><img src="https://img.shields.io/twitter/follow/abdulmajid5886?logo=twitter&style=for-the-badge" alt="abdulmajid5886" /></a> </p>
 
-- 🌱 I’m currently learning Robotics **STEM-Robotics**
+- 🔭 I’m currently working on **Flutter, FlutterFlow.**
+
+- 🌱 I’m currently learning Robotics **(STEM-Robotics)**
+
+- 👯 I’m looking to collaborate on **Different Projects**
+
+- 🤝 I’m looking for help with **personal and professional growth.**
+
+- 💬 Ask me about **Flutter, Wordpress**
+
+- 📫 How to reach me **90skype@gmail.com**
+
+- ⚡ Fun fact **Coding...**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
